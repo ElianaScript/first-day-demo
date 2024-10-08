@@ -1,2 +1,2 @@
-# first-day-demo
-First Day Demo
+# first-day-repo
+First Day Repo
